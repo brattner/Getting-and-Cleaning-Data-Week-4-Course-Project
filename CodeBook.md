@@ -15,15 +15,8 @@ Summary:
 
 Data: 
 
-•	The dataset includes the following text files:
+The dataset includes the following files:
 
--	activity_labels
-
--	features
-
--	features_info
-
--	README
 'README.txt'
 
 'features_info.txt': Shows information about the variables used on the feature vector.
